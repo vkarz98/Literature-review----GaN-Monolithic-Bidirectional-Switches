@@ -4,7 +4,7 @@
   <strong>GaN Monolithic Bidirectional Switches</strong>
 </p>
 
-<p>
+<p align="justify">
 A technical review exploring GaN monolithic bidirectional switch structures, operating principles, design considerations, and applications in advanced power converters.
 </p>
 
