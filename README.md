@@ -1,6 +1,6 @@
 ## Literature Review Report
 
-<h2 align="center">**GaN Monolithic Bidirectional Switches**</h2>
+<p align="center"><strong>GaN Monolithic Bidirectional Switches</strong></p>
 
 
 A technical review exploring GaN monolithic bidirectional switch structures, operating principles, design considerations, and applications in advanced power converters.
